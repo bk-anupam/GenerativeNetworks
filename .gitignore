@@ -1,0 +1,3 @@
+**/data
+AutoEncoders/wandb/
+GANs/mnist_data/
